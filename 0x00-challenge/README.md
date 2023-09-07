@@ -25,3 +25,21 @@ Python, Javascript, Ruby and C.
   * [4-delete_dnodeint](./4-delete_dnodeint/): C implementation of a
 doubly-linked list.
   * [Source code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint)
+
+## Author :black_nib:
+
+* __Prince Solomon__ [princexz](https://github.com/princexz)
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com/).
+
+<p align="center">
+  <img
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Africa Logo"
+  >
+</p>
+
+
+
